@@ -192,6 +192,9 @@ header h2 {
       left: 50%;
       transform: translateX(-50%);
       text-align: center;
+      line-height: 0px !important;
+      
+      
 }
 
 .fade {
